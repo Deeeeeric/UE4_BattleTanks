@@ -9,3 +9,4 @@ Part of the Unreal Course in Udemy. These are the files of the course and adjust
 * BT03 Creating Landscape
 * BT04 Landscape Layers and Textures
 * BT05 Creating the Tank
+* BT06 Configuring the Tank / Default Pawn
