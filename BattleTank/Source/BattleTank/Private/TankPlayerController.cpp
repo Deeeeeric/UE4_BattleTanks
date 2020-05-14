@@ -2,5 +2,3 @@
 
 
 #include "TankPlayerController.h"
-
-ATank* 
