@@ -13,3 +13,4 @@ Part of the Unreal Course in Udemy. These are the files of the course and adjust
 * BT07 Adding 3rd Person Camera View
 * BT08 User Interface (UI)
 * BT09 Main Menu Screen
+* BT10 UI Scale Box, Buttons & Mouse
